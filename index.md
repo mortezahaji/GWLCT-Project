@@ -9,7 +9,7 @@
 
 
 <body>
-    <h1>Geographically Weighted Linear Combination Test for Spatial Gene Set Analysis of Intra-Tumor Heterogeneity</h1>
+    <h1>Geographically Weighted Linear Combination Test</h1>
   <h2>
         Significant Genesets for 5 phenotypes at Low, Medium and High CAF levels.
   </h2>
